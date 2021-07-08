@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst prerm setup unpack
+DEPEND=|| ( virtual/httpd-cgi virtual/httpd-fastcgi ) >=app-admin/webapp-config-1.50.15 >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=PHP-based tool for managing,updating and playing audio files via a web interface
+EAPI=6
+HOMEPAGE=http://www.ampache.org/
+INHERIT=webapp git-r3
+IUSE=aac flac mp3 ogg transcode vhosts
+KEYWORDS=~amd64 ~ppc ~sparc ~x86
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=dev-lang/php[gd,hash,iconv,mysql,pdo,session,unicode,xml,zlib] transcode? ( media-sound/lame aac? ( || ( media-libs/faad2 media-sound/alac_decoder ) ) flac? ( media-libs/flac ) mp3? ( media-sound/mp3splt ) ogg? ( media-sound/mp3splt media-sound/vorbis-tools ) ) >=app-admin/webapp-config-1.50.15
+SLOT=9999
+_eclasses_=webapp	cd327e73cdb307ceb80dcca6b8ad8b52	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=1b3966d0d095908f51d838c6d3eef830

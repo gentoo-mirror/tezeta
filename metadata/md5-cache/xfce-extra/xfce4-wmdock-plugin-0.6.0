@@ -1,0 +1,12 @@
+DEFINED_PHASES=prepare setup
+DEPEND=x11-libs/gtk+:2 >=xfce-base/libxfce4util-4.10 >=xfce-base/libxfcegui4-4.10 >=xfce-base/xfce4-panel-4.10 >=x11-libs/libwnck-2.8.1:1 x11-libs/libX11 dev-util/intltool sys-devel/gettext virtual/pkgconfig
+DESCRIPTION=a compatibility layer for running WindowMaker dockapps on Xfce4
+EAPI=5
+HOMEPAGE=https://goodies.xfce.org/projects/panel-plugins/xfce4-wmdock-plugin
+IUSE=debug
+KEYWORDS=amd64 x86 ~x86-fbsd
+LICENSE=GPL-2
+RDEPEND=x11-libs/gtk+:2 >=xfce-base/libxfce4util-4.10 >=xfce-base/libxfcegui4-4.10 >=xfce-base/xfce4-panel-4.10 >=x11-libs/libwnck-2.8.1:1 x11-libs/libX11
+SLOT=0
+SRC_URI=mirror://xfce/src/panel-plugins/xfce4-wmdock-plugin/0.6/xfce4-wmdock-plugin-0.6.0.tar.bz2
+_md5_=4fd7ba1b12d5af8269fb08fdecf5e459
