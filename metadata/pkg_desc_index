@@ -2,6 +2,7 @@ app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
 app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
+media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
 net-misc/nextcloud-client-appimage 3.2.2: Desktop Syncing Client for Nextcloud
 www-apps/ampache 9999: PHP-based tool for managing,updating and playing audio files via a web interface
