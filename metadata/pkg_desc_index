@@ -4,7 +4,7 @@ app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisec
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
-net-misc/nextcloud-client-appimage 3.2.2: Desktop Syncing Client for Nextcloud
+net-misc/nextcloud-client-appimage 3.2.4: Desktop Syncing Client for Nextcloud
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
 www-apps/ampache 9999: PHP-based tool for managing,updating and playing audio files via a web interface
 www-servers/nginx 1.19.6-r100: Robust, small and high performance http and reverse proxy server
