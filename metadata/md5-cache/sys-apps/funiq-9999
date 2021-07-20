@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=a command line tool for performing fuzzy string matching against lists of words
+EAPI=7
+HOMEPAGE=https://github.com/mjfisheruk/funiq
+INHERIT=eutils git-r3
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+PROPERTIES=live
+SLOT=0
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=2c6e72eca0c18e3047303af6cdfe240d
