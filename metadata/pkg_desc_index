@@ -4,6 +4,7 @@ app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimiz
 app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
+media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity
 net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
 net-misc/nextcloud-client-appimage 3.2.4: Desktop Syncing Client for Nextcloud
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
