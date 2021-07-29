@@ -12,4 +12,4 @@ PROPERTIES=live
 RDEPEND=media-sound/pulseaudio bash-completions? ( app-shells/bash ) zsh-completions? ( app-shells/zsh )
 SLOT=0
 _eclasses_=gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	libtool	241a8f577b9781a42a7421e53448a44e	autotools	2a36908d5f63f41614b450a2459567da	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=8786b0f57bf5b334f5565aa700331acd
+_md5_=8e1ba7a0b29404d13b66e1273df6f733
