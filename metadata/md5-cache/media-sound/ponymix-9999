@@ -1,14 +1,15 @@
 BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=prepare unpack
-DEPEND=x11-libs/libX11 x11-libs/libXext x11-libs/libXpm x11-base/xorg-proto x11-apps/xrandr
-DESCRIPTION=NetworkManager frontend as a Window Maker dockapp
+DEFINED_PHASES=install unpack
+DEPEND=media-sound/pulseaudio bash-completions? ( app-shells/bash ) zsh-completions? ( app-shells/zsh )
+DESCRIPTION=a command line mixer for PulseAudio
 EAPI=7
-HOMEPAGE=https://github.com/d-torrance/wmnm
+HOMEPAGE=https://github.com/falconindy/ponymix
 INHERIT=autotools git-r3
+IUSE=bash-completions zsh-completions
 KEYWORDS=amd64 x86
 LICENSE=GPL-2
 PROPERTIES=live
-RDEPEND=x11-libs/libX11 x11-libs/libXext x11-libs/libXpm
+RDEPEND=media-sound/pulseaudio bash-completions? ( app-shells/bash ) zsh-completions? ( app-shells/zsh )
 SLOT=0
 _eclasses_=gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	libtool	241a8f577b9781a42a7421e53448a44e	autotools	2a36908d5f63f41614b450a2459567da	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=3c7386d6fd5a60250596339ea8d18242
+_md5_=8786b0f57bf5b334f5565aa700331acd
