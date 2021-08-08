@@ -9,6 +9,7 @@ media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder,
 net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
 net-misc/nextcloud-client-appimage 3.3.0: Desktop Syncing Client for Nextcloud
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
+sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-apps/memtest86+ 5.31b: Memory tester based on memtest86
 sys-block/kvpm 0.9.10-r1: GUI front end for Linux LVM2 and GNU parted based on KDE Frameworks
 sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
