@@ -1,0 +1,15 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst postrm unpack
+DEPEND=acct-group/disk x11-libs/libX11
+DESCRIPTION=Minimal GUI for writing compressed disk images to USB drives
+EAPI=7
+HOMEPAGE=https://gitlab.com/bztsrc/usbimager
+INHERIT=desktop xdg-utils unpacker git-r3
+KEYWORDS=~amd64 ~arm ~arm64
+LICENSE=public-domain BSD BZIP2 MIT ZLIB
+PROPERTIES=live
+RDEPEND=acct-group/disk x11-libs/libX11
+RESTRICT=mirror
+SLOT=0
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=e8cc02868d32afaf12611eae303c36e0

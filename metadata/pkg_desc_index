@@ -1,3 +1,4 @@
+app-admin/usbimager 9999: Minimal GUI for writing compressed disk images to USB drives
 app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
@@ -8,6 +9,7 @@ media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity
 net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
 net-misc/nextcloud-client-appimage 3.3.1: Desktop Syncing Client for Nextcloud
+sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-apps/memtest86+ 5.31b: Memory tester based on memtest86
