@@ -11,5 +11,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=media-libs/libsdl2[X,opengl,sound,video] sys-libs/zlib print? ( media-libs/libpng ) pcap? ( net-libs/libpcap )
 SLOT=0
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	subversion	c500a1b7795f44153bd96fc2597e3c05	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	desktop	c0d27bf73aa08ca05b663dbd31fbef28
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	subversion	c500a1b7795f44153bd96fc2597e3c05	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	e73b9df80596ab8f9c542c01196dec23	desktop	c0d27bf73aa08ca05b663dbd31fbef28
 _md5_=171a153ace69967cf0926888ea8ce1d1
