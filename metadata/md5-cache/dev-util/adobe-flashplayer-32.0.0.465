@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Standlone Adobe Flash Player
+EAPI=7
+HOMEPAGE=http://www.adobe.com/support/flashplayer/downloads.html
+IUSE=debugger
+KEYWORDS=~amd64
+LICENSE=Adobe
+RDEPEND=x11-libs/gtk+
+SLOT=32
+SRC_URI=https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flash_player_sa_linux.x86_64.tar.gz debugger? ( https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flash_player_sa_linux_debug.x86_64.tar.gz )
+_md5_=4a92a9f5aca0445ec0f83a75e8a649ea

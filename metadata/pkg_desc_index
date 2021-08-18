@@ -3,6 +3,7 @@ app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
 app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
+dev-util/adobe-flashplayer 32.0.0.465: Standlone Adobe Flash Player
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 media-sound/ponymix 9999: a command line mixer for PulseAudio
 media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
