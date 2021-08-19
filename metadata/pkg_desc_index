@@ -4,6 +4,7 @@ app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
 app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
+games-misc/sm64ex 9999: Super Mario 64 PC port with additional features
 media-sound/ponymix 9999: a command line mixer for PulseAudio
 media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity

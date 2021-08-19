@@ -1,0 +1,16 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=>=dev-lang/python-3.6 media-libs/libsdl2[X,alsa,joystick,opengl,sound,video] media-libs/glew media-libs/audiofile
+DESCRIPTION=Super Mario 64 PC port with additional features
+EAPI=7
+HOMEPAGE=https://github.com/sm64pc/sm64ex
+INHERIT=eutils git-r3
+IUSE=+60fps +baserom-us baserom-eu baserom-jp debug +bettercamera nodrawdistance texturefix +optionsmenu +textsaves abi_x86_64 abi_x86_32
+KEYWORDS=~amd64 ~x86
+LICENSE=all-rights-reserved
+PROPERTIES=live
+RDEPEND=>=dev-lang/python-3.6 media-libs/libsdl2[X,alsa,joystick,opengl,sound,video] media-libs/glew media-libs/audiofile
+REQUIRED_USE=^^ ( baserom-us baserom-eu baserom-jp ) || ( abi_x86_64 abi_x86_32 )
+SLOT=0
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=47b704b761182436d25f23e25b247d3f
