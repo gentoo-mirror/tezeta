@@ -7,6 +7,7 @@ dev-games/hdl_dump 9999: Game installer for PlayStation 2 HD Loader and Open PS2
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 games-misc/sm64ex 9999: Super Mario 64 PC port with additional features
 media-sound/ponymix 9999: a command line mixer for PulseAudio
+media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity
 media-video/adobe-flashplayer-projector 32.0.0.465: Adobe Flash Player standalone projector
 net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
