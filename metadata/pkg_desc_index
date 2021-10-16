@@ -1,6 +1,7 @@
 app-admin/usbimager 9999: Minimal GUI for writing compressed disk images to USB drives
 app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
+app-misc/pyblinkgtk 9999: simple GUI frontend for Blinkstick on Linux
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
 app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
 dev-games/hdl_dump 9999: Game installer for PlayStation 2 HD Loader and Open PS2 Loader
