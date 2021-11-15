@@ -11,7 +11,6 @@ media-sound/ponymix 9999: a command line mixer for PulseAudio
 media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity
 media-video/adobe-flashplayer-projector 32.0.0.465: Adobe Flash Player standalone projector
-net-misc/nextcloud-client 9999: Desktop Syncing Client for Nextcloud
 net-misc/nextcloud-client-appimage 3.3.6: Desktop Syncing Client for Nextcloud
 sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
 sys-apps/evhz 9999: Show mouse refresh rate under evdev
