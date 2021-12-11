@@ -18,7 +18,6 @@ sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
 sys-apps/evhz 9999: Show mouse refresh rate under evdev
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
-sys-apps/memtest86+ 5.31b: Memory tester based on memtest86
 sys-block/kvpm 0.9.10-r1: GUI front end for Linux LVM2 and GNU parted based on KDE Frameworks
 sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
 www-apps/ampache 9999: PHP-based tool for managing,updating and playing audio files via a web interface
