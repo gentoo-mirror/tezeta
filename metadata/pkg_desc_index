@@ -4,6 +4,7 @@ app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
 app-misc/pyblinkgtk 9999: simple GUI frontend for Blinkstick on Linux
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
 app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
+dev-embedded/hid_listen 1.01: Utility for acquiring debugging information from usb hid devices
 dev-games/hdl_dump 9999: Game installer for PlayStation 2 HD Loader and Open PS2 Loader
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 games-misc/sm64ex 9999: Super Mario 64 PC port with additional features
