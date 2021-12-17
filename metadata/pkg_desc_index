@@ -14,7 +14,6 @@ media-sound/radiotray-ng 9999: a NeXT 68k workstation emulator
 media-sound/sneedacity 9999: Free crossplatform audio editor (formerly Audacity)
 media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity
 media-video/adobe-flashplayer-projector 32.0.0.465: Adobe Flash Player standalone projector
-net-misc/nextcloud-client-appimage 3.3.6: Desktop Syncing Client for Nextcloud
 sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
 sys-apps/evhz 9999: Show mouse refresh rate under evdev
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
