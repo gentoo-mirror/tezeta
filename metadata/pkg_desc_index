@@ -27,5 +27,4 @@ x11-plugins/wmbright 9999: A brightness control dockapp in the style of wmix
 x11-plugins/wmnm 9999: NetworkManager frontend as a Window Maker dockapp
 x11-plugins/wmnut 9999: a dockapp to monitor multiple UPSs statistics through Network UPS Tools
 xfce-extra/xfce4-docklike-plugin 9999: A modern, docklike, minimalist taskbar for XFCE
-xfce-extra/xfce4-wmdock-plugin 0.6.0: a compatibility layer for running WindowMaker dockapps on Xfce4
-xfce-extra/xfce4-wmdock-plugin-gtk3 9999: a compatibility layer for running WindowMaker dockapps on Xfce4
+xfce-extra/xfce4-wmdock-plugin 9999: a compatibility layer for running WindowMaker dockapps on Xfce4
