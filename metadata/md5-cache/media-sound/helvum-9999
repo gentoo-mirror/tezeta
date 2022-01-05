@@ -1,0 +1,15 @@
+BDEPEND=>=sys-devel/clang-3.7 dev-util/meson virtual/rust >=dev-vcs/git-1.8.2.1[curl] >=dev-util/meson-0.58.2-r1 >=dev-util/ninja-1.8.2 dev-util/meson-format-array
+DEFINED_PHASES=compile configure install test unpack
+DEPEND=>=media-video/pipewire-0.3 >=gui-libs/gtk-4.4.0
+DESCRIPTION=A GTK patchbay for pipewire
+EAPI=8
+HOMEPAGE=https://gitlab.freedesktop.org/ryuukyu/helvum
+INHERIT=git-r3 meson
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=>=media-video/pipewire-0.3 >=gui-libs/gtk-4.4.0
+RESTRICT=network-sandbox
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	ninja-utils	a4dab848a4490e8e48cf0baab3e61bc2	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	python-utils-r1	a8b7938ade305f087865de7e52d079b5	meson	9f3e84959ae1d60e19bc91f212774dcc
+_md5_=53447b8c9aeaff630d2ff32cf438e502
