@@ -1,0 +1,15 @@
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.20.5 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install postinst prepare test unpack
+DEPEND=alsa? ( media-libs/alsa-lib ) pcap? ( net-libs/libpcap ) experimental? ( media-libs/freetype ) media-libs/libsdl2 media-libs/openal x11-libs/wxGTK:3.0-gtk3[tiff,X]
+DESCRIPTION=A PC emulator that specializes in running old operating systems and software
+EAPI=8
+HOMEPAGE=https://pcem-emulator.co.uk/ https://github.com/sarah-walker-pcem/pcem/
+INHERIT=cmake desktop flag-o-matic wxwidgets git-r3
+IUSE=+alsa debug extra-debug experimental networking pcap +plugin-engine
+LICENSE=GPL-2+
+PROPERTIES=live
+RDEPEND=alsa? ( media-libs/alsa-lib ) pcap? ( net-libs/libpcap ) experimental? ( media-libs/freetype ) media-libs/libsdl2 media-libs/openal x11-libs/wxGTK:3.0-gtk3[tiff,X]
+REQUIRED_USE=extra-debug? ( debug ) pcap? ( networking )
+SLOT=0
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	flag-o-matic	a500d7cc40da3de38c361e889153bdf7	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	ninja-utils	a4dab848a4490e8e48cf0baab3e61bc2	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	cmake	11fee991ab428a3370e5c20fa8231fb6	desktop	c0d27bf73aa08ca05b663dbd31fbef28	wxwidgets	7e8a20d3bacea0e3ecf6e96fb72180aa	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=0249374f3542c8f5574a1e2046537539
