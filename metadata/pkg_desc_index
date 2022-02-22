@@ -1,5 +1,5 @@
 app-admin/usbimager 9999: Minimal GUI for writing compressed disk images to USB drives
-app-emulation/pcem 17 9999: A PC emulator that specializes in running old operating systems and software
+app-emulation/pcem 9999: A PC emulator that specializes in running old operating systems and software
 app-emulation/pcem-roms 17 9999: A collection of required ROM files for PCem
 app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
