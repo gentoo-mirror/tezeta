@@ -11,7 +11,6 @@ dev-games/hdl_dump 9999: Game installer for PlayStation 2 HD Loader and Open PS2
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 games-misc/sm64ex 9999: Super Mario 64 PC port with additional features
 games-misc/xlander 3: A lunar landing simulation for X
-games-util/dexdrive 9999: Linux block driver for the InterAct DexDrive
 media-sound/helvum 9999: A GTK patchbay for pipewire
 media-sound/ponymix 9999: a command line mixer for PulseAudio
 media-sound/radiotray-ng 9999: a NeXT 68k workstation emulator
@@ -22,6 +21,7 @@ sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
 sys-apps/evhz 9999: Show mouse refresh rate under evdev
 sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
+sys-block/dexdrive 9999: Linux block driver for the InterAct DexDrive
 sys-block/kvpm 0.9.10-r1: GUI front end for Linux LVM2 and GNU parted based on KDE Frameworks
 sys-block/system-config-lvm 9999: LVM GUI tools from RedHat
 sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
