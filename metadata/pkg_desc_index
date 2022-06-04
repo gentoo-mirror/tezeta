@@ -28,6 +28,7 @@ sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chi
 www-apps/ampache 9999: PHP-based tool for managing,updating and playing audio files via a web interface
 www-servers/nginx 1.19.6-r100: Robust, small and high performance http and reverse proxy server
 x11-misc/gcolor2 0.4-r4: A GTK+ color selector
+x11-misc/picom-ibhagwan 9999: A lightweight compositor for X11 (previously a compton fork) - ibhagwan fork
 x11-plugins/wmbright 9999: A brightness control dockapp in the style of wmix
 x11-plugins/wmmp 0.12.6: A Window Maker dock app client for Music Player Daemon(media-sound/mpd)
 x11-plugins/wmnm 9999: NetworkManager frontend as a Window Maker dockapp
