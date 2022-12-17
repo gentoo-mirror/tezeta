@@ -22,7 +22,6 @@ sys-apps/funiq 9999: a command line tool for performing fuzzy string matching ag
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-block/dexdrive 9999: Linux block driver for the InterAct DexDrive
 sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
-www-apps/ampache 9999: PHP-based tool for managing,updating and playing audio files via a web interface
 x11-misc/gcolor2 0.4-r4: A GTK+ color selector
 x11-misc/picom-ibhagwan 9999: A lightweight compositor for X11 (previously a compton fork) - ibhagwan fork
 x11-misc/psensor 1.2.1 9999: A graphical hardware temperature monitor for Linux
