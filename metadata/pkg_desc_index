@@ -14,7 +14,6 @@ games-misc/xlander 3: A lunar landing simulation for X
 media-sound/helvum 9999: A GTK patchbay for pipewire
 media-sound/ponymix 9999: a command line mixer for PulseAudio
 media-sound/radiotray-ng 9999: a NeXT 68k workstation emulator
-media-sound/tenacity 9999: an easy-to-use multi-track audio editor and recorder, forked from Audacity
 media-video/adobe-flashplayer-projector 32.0.0.465: Adobe Flash Player standalone projector
 media-video/camorama 9999: A webcam application featuring various image filters
 sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
