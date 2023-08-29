@@ -3,13 +3,10 @@ app-emulation/pcem 9999: A PC emulator that specializes in running old operating
 app-emulation/pcem-roms 17 9999: A collection of required ROM files for PCem
 app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
-app-misc/pro-intellimouse-control-panel 9999: GUI for Microsoft Pro IntelliMouse
 app-misc/pyblinkgtk 9999: simple GUI frontend for Blinkstick on Linux
 app-misc/pystopwatch 2020.10.01: a simple alarm/stopwatch/timer that can minimize to the tray
-app-misc/stopwatch 3.5: Graphical stopwatch with optional countdown and millisecond accuracy
 dev-embedded/hid_listen 1.01: Utility for acquiring debugging information from usb hid devices
 dev-games/hdl_dump 9999: Game installer for PlayStation 2 HD Loader and Open PS2 Loader
-games-misc/sm64ex 9999: Super Mario 64 PC port with additional features
 games-misc/xlander 3: A lunar landing simulation for X
 media-sound/helvum 9999: A GTK patchbay for pipewire
 media-sound/ponymix 9999: a command line mixer for PulseAudio
@@ -18,7 +15,6 @@ media-video/adobe-flashplayer-projector 32.0.0.465: Adobe Flash Player standalon
 media-video/camorama 9999: A webcam application featuring various image filters
 sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
 sys-apps/evhz 9999: Show mouse refresh rate under evdev
-sys-apps/funiq 9999: a command line tool for performing fuzzy string matching against lists of words
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-block/dexdrive 9999: Linux block driver for the InterAct DexDrive
 sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
