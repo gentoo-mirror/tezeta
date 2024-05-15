@@ -1,17 +1,19 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install postinst postrm preinst prepare unpack
+DEFINED_PHASES=compile install nofetch postinst postrm preinst prepare unpack
 DEPEND=>=dev-lang/python-3.6 media-libs/libsdl2[X,alsa,joystick,opengl,sound,video] media-libs/glew media-libs/audiofile
 DESCRIPTION=Super Mario 64 PC port with additional features
 EAPI=8
 HOMEPAGE=https://github.com/sm64pc/sm64ex
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=desktop git-r3 xdg
-IUSE=+60fps +baserom-us baserom-eu baserom-jp debug +bettercamera extdata nodrawdistance +optionsmenu textsaves +texturefix
+IUSE=+60fps +baserom-us baserom-eu baserom-jp debug discord-presence +bettercamera extdata nodrawdistance +optionsmenu textsaves +texturefix
 KEYWORDS=~amd64 ~x86
 LICENSE=all-rights-reserved
 PROPERTIES=live
 RDEPEND=>=dev-lang/python-3.6 media-libs/libsdl2[X,alsa,joystick,opengl,sound,video] media-libs/glew media-libs/audiofile
 REQUIRED_USE=^^ ( baserom-us baserom-eu baserom-jp )
+RESTRICT=fetch
 SLOT=0
+SRC_URI=baserom-us? ( baserom.us.z64 ) baserom-eu? ( baserom.eu.z64 ) baserom-jp? ( baserom.jp.z64 )
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	git-r3	fbb2889c81f3a05910c1524db69425c1	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
-_md5_=3ed0755de76782f35a8a02e7b754c5bf
+_md5_=93bdc234c334c4694efeed5e4af4bfa5
