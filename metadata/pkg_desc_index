@@ -21,7 +21,6 @@ sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware i
 sys-block/dexdrive 9999: Linux block driver for the InterAct DexDrive
 sys-firmware/upd72020x-firmware 1.0.0: Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
 x11-misc/gcolor2 0.4-r4: A GTK+ color selector
-x11-misc/picom-ibhagwan 9999: A lightweight compositor for X11 (previously a compton fork) - ibhagwan fork
 x11-misc/psensor 1.2.1 9999: A graphical hardware temperature monitor for Linux
 x11-plugins/wmbright 9999: A brightness control dockapp in the style of wmix
 x11-plugins/wmmp 0.12.6: A Window Maker dock app client for Music Player Daemon(media-sound/mpd)
