@@ -1,5 +1,4 @@
 app-admin/usbimager 9999: Minimal GUI for writing compressed disk images to USB drives
-app-emulation/pcem 9999: A PC emulator that specializes in running old operating systems and software
 app-emulation/pcem-roms 17 9999: A collection of required ROM files for PCem
 app-emulation/previous 9999: a NeXT 68k workstation emulator
 app-misc/lockstate 1.1: monitors lock keys and shows status icons in system tray
@@ -12,7 +11,6 @@ games-misc/sm64ex 9999: Super Mario 64 PC port with additional features
 games-misc/xlander 3: A lunar landing simulation for X
 media-sound/helvum 9999: A GTK patchbay for pipewire
 media-sound/ponymix 9999: a command line mixer for PulseAudio
-media-sound/radiotray-ng 9999: a NeXT 68k workstation emulator
 media-video/adobe-flashplayer-projector 32.0.0.465: Adobe Flash Player standalone projector
 media-video/camorama 9999: A webcam application featuring various image filters
 sys-apps/coreboot-utils 4.11: Selected utilities from the coreboot project
