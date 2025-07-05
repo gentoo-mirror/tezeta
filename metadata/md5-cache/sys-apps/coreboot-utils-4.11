@@ -10,5 +10,5 @@ RDEPEND=amd64? ( >=sys-apps/pciutils-3.4.1 )
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://coreboot.org/releases/coreboot-4.11.tar.xz -> coreboot-utils-4.11.tar.xz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
+_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	flag-o-matic	a7afe42e95fb46ce9691605acfb24672
 _md5_=cfe43ce5724427421ec7fe9a7fda214f
